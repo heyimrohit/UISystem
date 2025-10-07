@@ -1,0 +1,10 @@
+{
+  "name": "com.mirrorspace.uisystem",
+  "version": "1.0.0",
+  "displayName": "uisystemSystem",
+  "description": "UI system for the Aetherium project",
+  "unity": "2021.3",
+  "author": {
+    "name": "Rohit Thakur"
+  }
+}
